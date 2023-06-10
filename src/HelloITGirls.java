@@ -77,14 +77,20 @@ public class HelloITGirls {
 //        System.out.println(++b >= 51);
 //        System.out.println(--c < 22);
 
-        String training = "Training Java";
-        System.out.println(training.length()); // length of string
-        System.out.println(training.charAt(2)); // character at 2
+//        String training = "Training Java";
+//        System.out.println(training.length()); // length of string
+//        System.out.println(training.charAt(2)); // character at 2
+
+        String words = "Words";
+        String words2 = "More words";
+        System.out.println(words.length()+words2.charAt(1));
+        System.out.println(words.length());
+        System.out.println(words2.charAt(2));
 
 
-// import java.time.*; create LocalDate and print today's date
-        LocalDate today = LocalDate.now();
-        System.out.println(today);
+//// import java.time.*; create LocalDate and print today's date
+//        LocalDate today = LocalDate.now();
+//        System.out.println(today);
 
 
     }
