@@ -1,3 +1,5 @@
+package RandomBegin;
+
 public class MainFly {
     public static void main(String[] args) {
         Duck duck = new Duck();

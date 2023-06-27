@@ -1,4 +1,4 @@
-//public class Car {
+package RandomBegin;//public class RandomBegin.Car {
 //
 //    // Name of the car
 //    String name;
@@ -6,25 +6,25 @@
 //    // Colour of the car
 //    String colour;
 //
-//    // Car goes
+//    // RandomBegin.Car goes
 ////    public String go(){
 ////        return " goes down the road";
 //
 //    }
-//    // Car slows down
+//    // RandomBegin.Car slows down
 ////    public String slow(){
 ////        return " and slows down";
 //    }
 //
-//    public Car(String name, String colour){
+//    public RandomBegin.Car(String name, String colour){
 //        this.name = name;
 //        this.colour = colour;
 //    }
 //
 //    public static void main (String[] args) {
-//        Car audi = new Car ("Audi", "Blue");
-//        Car lexus = new Car ("Lexus", "White");
-//        Car bentley = new Car ("Bentley", "Black");
+//        RandomBegin.Car audi = new RandomBegin.Car ("Audi", "Blue");
+//        RandomBegin.Car lexus = new RandomBegin.Car ("Lexus", "White");
+//        RandomBegin.Car bentley = new RandomBegin.Car ("Bentley", "Black");
 //
 ////        System.out.println("This car is "+ audi.name + " and its colour is " + audi.colour);
 ////        System.out.println("This car is "+ lexus.name + " and its colour is " + lexus.colour);

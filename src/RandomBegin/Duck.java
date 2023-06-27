@@ -1,3 +1,5 @@
+package RandomBegin;
+
 public class Duck implements Flyable{
 
     @Override

@@ -1,3 +1,5 @@
+package RandomBegin;
+
 public class Airplane implements Flyable{
 
     @Override

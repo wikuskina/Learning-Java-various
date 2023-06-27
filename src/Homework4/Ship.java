@@ -1,9 +1,9 @@
 package Homework4;
 
-public class Ship implements WaterAction{
+public class Ship implements WaterAction {
 
     @Override
-    public void MoveInWater(){
+    public void MoveInWater() {
         Sail();
         System.out.println("I am a ship and I sail once I fuelled.");
     }
