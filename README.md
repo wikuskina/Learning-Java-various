@@ -1,1 +1,2 @@
-Project as a part of the course learning experience with Java.
+Java course learning experience.
+Homework uploaded via IntelliJ IDEA.
