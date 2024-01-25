@@ -1,2 +1,1 @@
-Java course learning experience.
-Homework uploaded via IntelliJ IDEA.
+Java learning experience. Various exercises, e.g. polymorphism, inheritance, abstract classes.
